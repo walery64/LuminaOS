@@ -16,7 +16,7 @@
 
 ## Description
 
-Более подробное описание проекта, его целей и основных возможностей.
+Simple Operating System for embedded applications on microcontrollers.
 
 ## Установка
 
