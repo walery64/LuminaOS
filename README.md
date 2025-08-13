@@ -5,7 +5,6 @@
 ## Contents
 
 - [Description](#description)
-- [Установка](#установка)
 - [Использование](#использование)
 - [Примеры](#примеры)
 - [Требования](#требования)
@@ -17,17 +16,6 @@
 ## Description
 
 Simple Operating System for embedded applications on microcontrollers.
-
-## Установка
-
-Пошаговые инструкции по установке:
-
-```sh
-# Пример установки
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-# дополнительные шаги
-```
 
 ## Использование
 
