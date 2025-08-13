@@ -15,7 +15,8 @@
 
 ## Description
 
-Simple Operating System for embedded applications on microcontrollers.
+LuminaOS is a simple operating system for microcontrollers. 
+It is intended for embedded applications with limited resources. Unlike similar ones, it has a small size, a simple interface and is not overloaded with unnecessary functionality.
 
 ## Использование
 
